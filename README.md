@@ -1,5 +1,5 @@
 <a href="https://github.com/bamerf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bamerf&count_private=trueshow_icons=true&theme=highcontrast&custom_title=Bam's+Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bamerf&count_private=trueshow_icons=true&theme=highcontrast&custom_title=Bam's+Stats&hide=starts,contribs" />
 </a>
 <a href="https://github.com/bamerf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamerf&hide=shell&layout=compact&theme=highcontrast" />
