@@ -1,3 +1,20 @@
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bamerf&count_private=trueshow_icons=true&theme=highcontrast&custom_title=Bam's+Stats" />
+</a>
+<a href="https://github.com/bamerf/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamerf&hide=shell&layout=compact&theme=highcontrast" />
+</a>
+
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bamerf&repo=design-system&theme=highcontrast" />
+</a>
+<a href="https://github.com/bamerf/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bamerf&repo=react-prototype&theme=highcontrast" />
+</a>
+
+
 ![](https://komarev.com/ghpvc/?username=bamerf&color=orange&style=flat-square&label=Profile+Views)
 
 <!--
