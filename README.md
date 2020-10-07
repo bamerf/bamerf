@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bamerf&repo=design-system&theme=highcontrast" />
 </a>
 <a href="https://github.com/bamerf/react-prototype">
-  <img align="center" src="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bamerf&repo=react-prototype&theme=highcontrast" />
 </a>
 
 # 
