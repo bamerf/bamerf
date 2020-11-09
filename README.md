@@ -16,7 +16,7 @@
 
 # 
 
-![](https://komarev.com/ghpvc/?username=bamerf&color=orange&style=flat-square&label=Profile+Views)
+<!-- ![](https://komarev.com/ghpvc/?username=bamerf&color=orange&style=flat-square&label=Profile+Views) -->
 
 <!--
 **bamerf/bamerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
