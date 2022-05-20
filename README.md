@@ -1,4 +1,4 @@
-<a href="https://github.com/bamerf">
+<!-- <a href="https://github.com/bamerf">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bamerf&count_private=trueshow_icons=true&theme=highcontrast&custom_title=Bam's+Stats&hide=stars,contribs" />
 </a>
 <a href="https://github.com/bamerf">
@@ -12,7 +12,7 @@
 </a>
 <a href="https://github.com/bamerf/music-profile">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bamerf&repo=music-profile&theme=highcontrast" />
-</a>
+</a> -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=bamerf&color=orange&style=flat-square&label=Profile+Views) -->
 
